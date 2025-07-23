@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel Rausseo</h1>
-<h3 align="center">Soy un apasionado desarrollador de Venezuela</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **Colitas y Bigotes**
 
